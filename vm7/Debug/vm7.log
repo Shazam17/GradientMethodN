@@ -1,0 +1,6 @@
+﻿  vm7.cpp
+C:\Users\stkau\source\repos\vm7\vm7\vm7.cpp(42,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stkau\source\repos\vm7\vm7\vm7.cpp(60,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stkau\source\repos\vm7\vm7\vm7.cpp(70,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\stkau\source\repos\vm7\vm7\vm7.cpp(47): warning C4715:  'Point::operator-': not all control paths return a value
+  vm7.vcxproj -> C:\Users\stkau\source\repos\vm7\Debug\vm7.exe
